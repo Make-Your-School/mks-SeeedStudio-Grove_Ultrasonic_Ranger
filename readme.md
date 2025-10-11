@@ -22,7 +22,7 @@ embedded_example_file: "examples/Grove_Ultrasonic_Ranger_minimal/Grove_Ultrasoni
 
 # Ultraschall-Entfernungssensor
 
-![Ultraschall-Entfernungssensor](17_ultraschallentfernungssensor.jpg)
+![Ultraschall-Entfernungssensor](./17_ultraschallentfernungssensor.jpg)
 
 ## Beschreibung
 Der Ultraschall-Entfernungssensor misst die Entfernung zwischen sich und einem vor ihm positionierten Gegenstand. Der Sensor strahlt eigene Ultraschall-Signale aus und analysiert das vom Objekt reflektierte Echo. So lassen sich Entfernungen zwischen 2cm und 350cm erfassen. Die Genauigkeit liegt hierbei bei  1cm.

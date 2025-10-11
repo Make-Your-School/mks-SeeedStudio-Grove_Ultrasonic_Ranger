@@ -1,4 +1,3 @@
-
 ---
 title: "Ultraschall-Entfernungssensor"
 date: "2018-10-01T13:31:08.000Z"

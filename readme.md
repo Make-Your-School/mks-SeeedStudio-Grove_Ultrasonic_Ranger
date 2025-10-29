@@ -16,9 +16,6 @@ repo_part: "Grove_Ultrasonic_Ranger"
 product_url: "https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Ultrasonic_Ranger.git"
 embedded_example_file: "examples/Grove_Ultrasonic_Ranger_minimal/Grove_Ultrasonic_Ranger_minimal.ino"
-title: 'Ultraschall-Entfernungssensor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 

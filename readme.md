@@ -30,6 +30,8 @@ Der Ultraschall-Entfernungssensor misst die Entfernung zwischen sich und einem v
 
 Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Der Sensor kommuniziert über ein digitales Signal.
 
+Um den Sensor zum Laufen zu kriegen muss man in der Arduino IDE die Bibliothek "Grove Ultrasonic Ranger" installieren.
+
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen. Diese ist normalerweise direkt auf der Platine des Sensors markiert. Im Folgenden sind zwei Anleitungen zu den zwei gängigsten Sensortypen zusammengefasst.
 
 
@@ -48,6 +50,7 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 
 ## Wichtige Hinweise:
 
+- Die richtige Bibliothek findet man in der Arduino IDE unter "Grove Ultrasonic Ranger".
 - Es gibt zwei Arten von Ultraschall-Entfernungssensoren, die unterschiedlich verwendet werden müssen. Je nach Sensortyp kann der Anschluss und die Verwendung des Sensors leicht variieren.
 - Der allgemeine Ultraschall-Entfernungssensor bezieht sich auf den Sensortyp HC-SR04. Man erkennt diesen an der roten Farbe und den vier folgenden Anschlüssen: VCC, Trig, Echo und GND.
 - Der Grove Ultraschall-Entfernungssensor bezieht sich nur auf den speziellen Sensor von der Firma Seeed Studio. Man erkennt diesen an der blauen Platine und am Steckplatz mit den drei belegten Anschlüssen: GND, VCC und SIG. Der vierte Anschluss ist mit „NC“ beschriftet und bedeutet „not connected“ (deutsch: nicht belegt).
